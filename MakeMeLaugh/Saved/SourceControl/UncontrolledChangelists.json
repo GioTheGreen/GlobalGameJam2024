@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/Pick_Ups/BP_Item.uasset",
+				"C:/Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/Pick_Ups/BPI_pick_up_Interface.uasset",
+				"C:/Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/Pick_Ups/Respawn/Spawn_Actor.uasset",
+				"C:/Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/Pick_Ups/Respawn/Location.uasset",
+				"C:/Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/Pick_Ups/BP_Item_Base.uasset",
+				"C:/Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/Pick_Ups/BP_Item_overlap.uasset",
+				"C:/Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/Pick_Ups/BP_Item_Base_Click.uasset",
+				"C:/Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/Pick_Ups/BP_Item_Base_Highlightable.uasset",
+				"C:/Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/Pick_Ups/Highlighted_Mat.uasset",
+				"C:/Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/Pick_Ups/Standard_Mat.uasset",
+				"C:/Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/Pick_Ups/BP_Item_Base_Movable.uasset",
+				"C:/Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/Pick_Ups/BPA_Item.uasset",
+				"C:/Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset",
+				"C:/Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset",
+				"C:/Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap",
+				"C:/Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/ThirdPersonBP/Maps/Untitled.umap",
+				"C:/Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset",
+				"C:/Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/Untitled.umap",
+				"C:/Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/ThirdPersonBP/Maps/Untitled1.umap",
+				"C:/Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/ThirdPersonBP/Maps/Untitled2.umap",
+				"C:/Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/Untitled3.umap",
+				"C:/Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/ThirdPersonBP/Maps/Untitled4.umap",
+				"C:/Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/ThirdPersonBP/Maps/Untitled5.umap"
+			]
+		}
+	]
+}
