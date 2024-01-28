@@ -1150,3 +1150,119 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.01.28-12.37.22:548][653]LogContentValidation: Display: Validating Blueprint /Game/Pick_Ups/BPA_Trajectory_Line.BPA_Trajectory_Line
 [2024.01.28-12.38.37:578][190]BlueprintLog: New page: Compile BPA_Trajectory_Line
 [2024.01.28-12.38.37:620][190]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2024.01.28-12.42.07:514][ 86]BlueprintLog: New page: Compile BPA_Speed_Boost
+[2024.01.28-12.42.07:561][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2024.01.28-12.43.47:428][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2024.01.28-12.43.47:451][ 26]LogSavePackage: Moving '../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/ThirdPersonExampleMap_Auto8DBADDEC24E25FDFF5AD0BDBEEE2CEF89.tmp' to '../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto8.umap'
+[2024.01.28-12.43.47:452][ 26]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.053
+[2024.01.28-12.43.47:452][ 26]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.053
+[2024.01.28-12.43.47:452][ 26]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Pick_Ups/BPA_Speed_Boost] ([2] browsable assets)...
+[2024.01.28-12.43.47:452][ 26]OBJ SavePackage: Finished generating thumbnails for package [/Game/Pick_Ups/BPA_Speed_Boost]
+[2024.01.28-12.43.47:460][ 26]LogSavePackage: Moving '../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/BPA_Speed_Boost_Auto89AF9B4684A3CF1795B8CE0B231BFD8FF.tmp' to '../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/Autosaves/Game/Pick_Ups/BPA_Speed_Boost_Auto8.uasset'
+[2024.01.28-12.43.47:462][ 26]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Gio/BP_Player] ([2] browsable assets)...
+[2024.01.28-12.43.47:476][ 26]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Gio/BP_Player.BP_Player]
+[2024.01.28-12.43.47:476][ 26]OBJ SavePackage: Finished generating thumbnails for package [/Game/Gio/BP_Player]
+[2024.01.28-12.43.47:510][ 26]LogSavePackage: Moving '../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/BP_Player_Auto830555FBC4A809E58B7F2F7B72D34D52C.tmp' to '../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/Autosaves/Game/Gio/BP_Player_Auto8.uasset'
+[2024.01.28-12.43.47:510][ 26]LogFileHelpers: Auto-saving content packages took 0.059
+[2024.01.28-12.44.24:929][446]BlueprintLog: New page: Compile BPA_Speed_Boost
+[2024.01.28-12.44.24:973][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2024.01.28-12.44.34:820][589]LogTemp: Repeating last play command: Selected Viewport
+[2024.01.28-12.44.34:829][589]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.01.28-12.44.34:833][589]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2024.01.28-12.44.34:928][589]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2024.01.28-12.44.34:929][589]LogPlayLevel: PlayLevel: Blueprint regeneration took 99 ms (1 blueprints)
+[2024.01.28-12.44.34:932][589]PIE: New page: PIE session: ThirdPersonExampleMap (28 Jan 2024, 12:44:34)
+[2024.01.28-12.44.34:936][589]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2024.01.28-12.44.34:938][589]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.01.28-12.44.34:942][589]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.01.28-12.44.34:957][589]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013916s)
+[2024.01.28-12.44.34:958][589]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.01.28-12.44.34:960][589]LogPlayLevel: PIE: World Init took: (0.002748s)
+[2024.01.28-12.44.34:960][589]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017190s)
+[2024.01.28-12.44.34:986][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.01.28-12.44.34:989][589]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.01.28-12.44.34:989][589]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-12.44.34:989][589]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-12.44.34:989][589]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-12.44.34:989][589]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-12.44.34:989][589]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.28-12.44.34:989][589]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-12.44.34:989][589]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.28-12.44.34:989][589]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-12.44.34:989][589]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-12.44.34:989][589]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-12.44.34:989][589]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-12.44.34:989][589]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.28-12.44.34:993][589]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.28-12.44.34:993][589]LogAudioMixer: Display: 1: FrontRight
+[2024.01.28-12.44.35:002][589]LogAudioMixer: Display: Using Audio Device Headphones (X15)
+[2024.01.28-12.44.35:002][589]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-12.44.35:002][589]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-12.44.35:002][589]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-12.44.35:003][589]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.28-12.44.35:003][589]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.28-12.44.35:003][589]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.28-12.44.35:004][589]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.28-12.44.35:004][589]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.28-12.44.35:004][589]LogInit: FAudioDevice initialized.
+[2024.01.28-12.44.35:004][589]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2024.01.28-12.44.35:112][589]LogLoad: Game class is 'BP_Multiplayer_C'
+[2024.01.28-12.44.35:123][589]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2024.01.28-12.44.35
+[2024.01.28-12.44.35:124][589]LogWorld: Bringing up level for play took: 0.003541
+[2024.01.28-12.44.35:126][589]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2024.01.28-12.44.35:143][589]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 20 classes and 0 folders.
+[2024.01.28-12.44.35:158][589]PIE: Server logged in
+[2024.01.28-12.44.35:160][589]PIE: Play in editor total start time 0.334 seconds.
+[2024.01.28-12.44.35:175][589]LogSlate: New Slate User Created.  User Index 1, Is Virtual User: 0
+[2024.01.28-12.44.35:177][589]LogSlate: Slate User Registered.  User Index 1, Is Virtual User: 0
+[2024.01.28-12.44.40:647][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-12.44.40:647][190]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.01.28-12.44.40:648][190]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-12.44.40:648][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-12.44.40:660][190]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-12.44.40:666][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-12.44.40:694][190]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.28-12.44.40:696][190]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.28-12.44.40:697][190]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.28-12.44.40:699][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-12.44.40:720][190]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2024.01.28-12.44.40:744][191]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.01.28-12.53.53:560][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2024.01.28-12.53.53:581][ 84]LogSavePackage: Moving '../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/ThirdPersonExampleMap_Auto9CD341935483766BB0304B393A908F17B.tmp' to '../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto9.umap'
+[2024.01.28-12.53.53:582][ 84]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.069
+[2024.01.28-12.53.53:582][ 84]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.069
+[2024.01.28-12.53.53:582][ 84]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Pick_Ups/BPA_Speed_Boost] ([2] browsable assets)...
+[2024.01.28-12.53.53:582][ 84]OBJ SavePackage: Finished generating thumbnails for package [/Game/Pick_Ups/BPA_Speed_Boost]
+[2024.01.28-12.53.53:591][ 84]LogSavePackage: Moving '../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/BPA_Speed_Boost_Auto92746C17A464A32164CEE4797410B0EC3.tmp' to '../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/Autosaves/Game/Pick_Ups/BPA_Speed_Boost_Auto9.uasset'
+[2024.01.28-12.53.53:592][ 84]LogFileHelpers: Auto-saving content packages took 0.009
+[2024.01.28-13.51.29:417][ 68]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fb2c65f1-35bb-424b-8b90-788ffb0fe76d}.
+[2024.01.28-13.51.29:417][ 68]LogAudioMixer: Resetting audio stream to device id 
+[2024.01.28-13.51.29:450][ 68]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.28-13.51.29:450][ 68]LogAudioMixer: Display: 1: FrontRight
+[2024.01.28-13.55.29:006][831]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap
+[2024.01.28-13.56.04:227][903]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2024.01.28-13.56.04:257][903]LogSavePackage: Moving '../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/ThirdPersonExampleMap_Auto00C913657496C6D3F0DE1E389CD17506C.tmp' to '../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto0.umap'
+[2024.01.28-13.56.04:259][903]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.197
+[2024.01.28-13.56.04:259][903]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.197
+[2024.01.28-14.03.35:981][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gio/BP_Player" FILE="../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/Gio/BP_Player.uasset" SILENT=true
+[2024.01.28-14.03.36:023][998]LogSavePackage: Moving '../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/BP_PlayerD8303DBA45A6FDB6A73DADB2848C8C1D.tmp' to '../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/Gio/BP_Player.uasset'
+[2024.01.28-14.03.36:050][998]AssetCheck: New page: Asset Save: BP_Player
+[2024.01.28-14.03.36:050][998]LogContentValidation: Display: Validating Blueprint /Game/Gio/BP_Player.BP_Player
+[2024.01.28-14.03.36:775][ 42]BlueprintLog: New page: Compile BP_Player
+[2024.01.28-14.03.36:860][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2024.01.28-14.03.36:948][ 43]BlueprintLog: New page: Compile BP_Player
+[2024.01.28-14.03.37:026][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2024.01.28-14.03.40:131][221]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Pick_Ups/BPI_Pick_Up_Interface.BPI_Pick_Up_Interface
+[2024.01.28-14.03.40:347][221]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Pick_Ups/BPA_Item.BPA_Item
+[2024.01.28-14.03.40:594][221]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap': Can't resolve asset name
+[2024.01.28-14.03.42:031][307]BlueprintLog: New page: Compile BPA_Bean_Grenade
+[2024.01.28-14.03.42:097][307]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2024.01.28-14.03.42:101][307]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BPA_Bean_Grenade_C_CHILDACTOR_206.Sphere) Trying to register component with IsPendingKill() == true. Aborting.
+[2024.01.28-14.03.42:101][307]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_BPA_Bean_Grenade_C_CHILDACTOR_125.Sphere) Trying to register component with IsPendingKill() == true. Aborting.
+[2024.01.28-14.03.42:101][307]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BPA_Bean_Grenade_C_CHILDACTOR_172.Sphere) Trying to register component with IsPendingKill() == true. Aborting.
+[2024.01.28-14.03.42:120][307]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BPA_Bean_Grenade_C_CHILDACTOR_210.Sphere) Trying to register component with IsPendingKill() == true. Aborting.
+[2024.01.28-14.03.42:120][307]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_BPA_Bean_Grenade_C_CHILDACTOR_129.Sphere) Trying to register component with IsPendingKill() == true. Aborting.
+[2024.01.28-14.03.42:120][307]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BPA_Bean_Grenade_C_CHILDACTOR_176.Sphere) Trying to register component with IsPendingKill() == true. Aborting.
+[2024.01.28-14.03.42:910][351]LogSavePackage: Moving '../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/BPA_Bean_Grenade83DD8BA640BC01F6869FF9AC8AA38CF0.tmp' to '../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/Pick_Ups/BPA_Bean_Grenade.uasset'
+[2024.01.28-14.03.42:928][351]AssetCheck: New page: Asset Save: BPA_Bean_Grenade
+[2024.01.28-14.03.42:928][351]LogContentValidation: Display: Validating Blueprint /Game/Pick_Ups/BPA_Bean_Grenade.BPA_Bean_Grenade
