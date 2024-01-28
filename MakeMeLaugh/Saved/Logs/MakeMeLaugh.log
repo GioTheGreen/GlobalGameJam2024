@@ -1088,3 +1088,65 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.01.28-12.21.02:354][643]LogContentValidation: Display: Validating Blueprint /Game/Pick_Ups/BPA_Speed_Boostent.BPA_Speed_Boostent
 [2024.01.28-12.21.21:340][904]BlueprintLog: New page: Compile BP_Player
 [2024.01.28-12.21.21:404][904]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2024.01.28-12.23.19:949][788]BlueprintLog: New page: Compile BPA_Bean_Grenade
+[2024.01.28-12.23.20:008][788]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2024.01.28-12.23.20:010][788]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BPA_Bean_Grenade_C_CHILDACTOR_180.Sphere) Trying to register component with IsPendingKill() == true. Aborting.
+[2024.01.28-12.23.20:010][788]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_BPA_Bean_Grenade_C_CHILDACTOR_99.Sphere) Trying to register component with IsPendingKill() == true. Aborting.
+[2024.01.28-12.23.20:011][788]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BPA_Bean_Grenade_C_CHILDACTOR_140.Sphere) Trying to register component with IsPendingKill() == true. Aborting.
+[2024.01.28-12.23.20:022][788]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BPA_Bean_Grenade_C_CHILDACTOR_184.Sphere) Trying to register component with IsPendingKill() == true. Aborting.
+[2024.01.28-12.23.20:023][788]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_BPA_Bean_Grenade_C_CHILDACTOR_103.Sphere) Trying to register component with IsPendingKill() == true. Aborting.
+[2024.01.28-12.23.20:023][788]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BPA_Bean_Grenade_C_CHILDACTOR_144.Sphere) Trying to register component with IsPendingKill() == true. Aborting.
+[2024.01.28-12.23.46:690][930]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2024.01.28-12.23.46:716][930]LogSavePackage: Moving '../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/ThirdPersonExampleMap_Auto647CDCD434DFAA4EC5E4047AF507E6827.tmp' to '../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap'
+[2024.01.28-12.23.46:719][930]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.058
+[2024.01.28-12.23.46:719][930]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.058
+[2024.01.28-12.23.46:720][930]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Pick_Ups/BPA_Speed_Boost] ([2] browsable assets)...
+[2024.01.28-12.23.46:720][930]OBJ SavePackage: Finished generating thumbnails for package [/Game/Pick_Ups/BPA_Speed_Boost]
+[2024.01.28-12.23.46:728][930]LogSavePackage: Moving '../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/BPA_Speed_Boost_Auto6B64E240648FEB55A2F77E194B699C3A3.tmp' to '../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/Autosaves/Game/Pick_Ups/BPA_Speed_Boost_Auto6.uasset'
+[2024.01.28-12.23.46:728][930]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Gio/BP_Player] ([2] browsable assets)...
+[2024.01.28-12.23.46:737][930]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Gio/BP_Player.BP_Player]
+[2024.01.28-12.23.46:737][930]OBJ SavePackage: Finished generating thumbnails for package [/Game/Gio/BP_Player]
+[2024.01.28-12.23.46:770][930]LogSavePackage: Moving '../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/BP_Player_Auto6F75E01BA4201E913E125F183298C8D74.tmp' to '../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/Autosaves/Game/Gio/BP_Player_Auto6.uasset'
+[2024.01.28-12.23.46:771][930]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Pick_Ups/BPA_Bean_Grenade] ([2] browsable assets)...
+[2024.01.28-12.23.46:771][930]OBJ SavePackage: Finished generating thumbnails for package [/Game/Pick_Ups/BPA_Bean_Grenade]
+[2024.01.28-12.23.46:777][930]LogSavePackage: Moving '../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/BPA_Bean_Grenade_Auto6A93D9D274C8761161EB76DB270A88A87.tmp' to '../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/Autosaves/Game/Pick_Ups/BPA_Bean_Grenade_Auto6.uasset'
+[2024.01.28-12.23.46:778][930]LogFileHelpers: Auto-saving content packages took 0.058
+[2024.01.28-12.24.12:875][  6]LogSavePackage: Moving '../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/BPA_Bean_Grenade7A881A8E40A9B348FE67B3945770969C.tmp' to '../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/Pick_Ups/BPA_Bean_Grenade.uasset'
+[2024.01.28-12.24.12:892][  6]AssetCheck: New page: Asset Save: BPA_Bean_Grenade
+[2024.01.28-12.24.12:892][  6]LogContentValidation: Display: Validating Blueprint /Game/Pick_Ups/BPA_Bean_Grenade.BPA_Bean_Grenade
+[2024.01.28-12.24.19:955][850]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{6b7cf64c-3f8a-4f1b-a853-0630709f99b4}.
+[2024.01.28-12.24.19:955][850]LogAudioMixer: Resetting audio stream to device id 
+[2024.01.28-12.24.20:131][850]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.28-12.24.20:131][850]LogAudioMixer: Display: 1: FrontRight
+[2024.01.28-12.25.58:333][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gio/BP_Player" FILE="../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/Gio/BP_Player.uasset" SILENT=true
+[2024.01.28-12.25.58:364][541]LogSavePackage: Moving '../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/BP_Player2E15E122463D4C0BEB6FDA9C03C45417.tmp' to '../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/Gio/BP_Player.uasset'
+[2024.01.28-12.25.58:378][541]AssetCheck: New page: Asset Save: BP_Player
+[2024.01.28-12.25.58:378][541]LogContentValidation: Display: Validating Blueprint /Game/Gio/BP_Player.BP_Player
+[2024.01.28-12.26.22:536][412]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{dd9ca99e-4e26-4c63-a7a2-8d1390cbfdab}.
+[2024.01.28-12.26.22:548][412]LogAudioMixer: Resetting audio stream to device id 
+[2024.01.28-12.26.22:703][412]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.28-12.26.22:703][412]LogAudioMixer: Display: 1: FrontRight
+[2024.01.28-12.27.17:618][966]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fb2c65f1-35bb-424b-8b90-788ffb0fe76d}.
+[2024.01.28-12.27.17:622][966]LogAudioMixer: Resetting audio stream to device id 
+[2024.01.28-12.27.17:723][966]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.28-12.27.17:723][966]LogAudioMixer: Display: 1: FrontRight
+[2024.01.28-12.31.16:188][504]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{dd9ca99e-4e26-4c63-a7a2-8d1390cbfdab}.
+[2024.01.28-12.31.16:188][504]LogAudioMixer: Resetting audio stream to device id 
+[2024.01.28-12.31.16:369][504]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.28-12.31.16:369][504]LogAudioMixer: Display: 1: FrontRight
+[2024.01.28-12.33.47:300][310]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2024.01.28-12.33.47:302][310]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.037
+[2024.01.28-12.33.47:302][310]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Gio/BP_Player] ([2] browsable assets)...
+[2024.01.28-12.33.47:330][310]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Gio/BP_Player.BP_Player]
+[2024.01.28-12.33.47:330][310]OBJ SavePackage: Finished generating thumbnails for package [/Game/Gio/BP_Player]
+[2024.01.28-12.33.47:370][310]LogSavePackage: Moving '../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/BP_Player_Auto71D8EF1384A64399F704C2981AACCB7E0.tmp' to '../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/Autosaves/Game/Gio/BP_Player_Auto7.uasset'
+[2024.01.28-12.33.47:370][310]LogFileHelpers: Auto-saving content packages took 0.069
+[2024.01.28-12.34.04:779][678]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.01.28-12.34.04:796][678]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.01.28-12.37.21:754][571]BlueprintLog: New page: Compile BPA_Trajectory_Line
+[2024.01.28-12.37.21:800][571]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2024.01.28-12.37.22:534][653]LogSavePackage: Moving '../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/BPA_Trajectory_Line9CFA0CE64223539D6B843BB9F5230496.tmp' to '../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/Pick_Ups/BPA_Trajectory_Line.uasset'
+[2024.01.28-12.37.22:548][653]AssetCheck: New page: Asset Save: BPA_Trajectory_Line
+[2024.01.28-12.37.22:548][653]LogContentValidation: Display: Validating Blueprint /Game/Pick_Ups/BPA_Trajectory_Line.BPA_Trajectory_Line
+[2024.01.28-12.38.37:578][190]BlueprintLog: New page: Compile BPA_Trajectory_Line
+[2024.01.28-12.38.37:620][190]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
