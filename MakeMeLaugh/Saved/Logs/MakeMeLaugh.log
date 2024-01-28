@@ -1053,3 +1053,38 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.01.28-12.11.58:835][875]LogSavePackage: Moving '../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/BPA_Trajectory_Line9B98B04F437C27187B690F960C339AED.tmp' to '../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/Pick_Ups/BPA_Trajectory_Line.uasset'
 [2024.01.28-12.11.58:849][875]AssetCheck: New page: Asset Save: BPA_Trajectory_Line
 [2024.01.28-12.11.58:850][875]LogContentValidation: Display: Validating Blueprint /Game/Pick_Ups/BPA_Trajectory_Line.BPA_Trajectory_Line
+[2024.01.28-12.13.46:476][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.01.28-12.13.46:476][295]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.023
+[2024.01.28-12.13.46:477][295]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Gio/BP_Player] ([2] browsable assets)...
+[2024.01.28-12.13.46:496][295]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Gio/BP_Player.BP_Player]
+[2024.01.28-12.13.46:496][295]OBJ SavePackage: Finished generating thumbnails for package [/Game/Gio/BP_Player]
+[2024.01.28-12.13.46:529][295]LogSavePackage: Moving '../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/BP_Player_Auto511A58064452734CC4B5717A04BF6B9D3.tmp' to '../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/Autosaves/Game/Gio/BP_Player_Auto5.uasset'
+[2024.01.28-12.13.46:530][295]LogFileHelpers: Auto-saving content packages took 0.054
+[2024.01.28-12.17.04:628][886]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fb2c65f1-35bb-424b-8b90-788ffb0fe76d}.
+[2024.01.28-12.17.04:628][886]LogAudioMixer: Resetting audio stream to device id 
+[2024.01.28-12.17.04:800][886]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.28-12.17.04:800][886]LogAudioMixer: Display: 1: FrontRight
+[2024.01.28-12.18.11:534][110]BlueprintLog: New page: Compile BPA_Trajectory_Line
+[2024.01.28-12.18.11:615][110]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2024.01.28-12.19.24:817][298]BlueprintLog: New page: Compile BPA_Trajectory_Line
+[2024.01.28-12.19.24:861][298]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.01.28-12.19.45:035][493]BlueprintLog: New page: Compile BPA_Trajectory_Line
+[2024.01.28-12.19.45:073][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2024.01.28-12.19.45:630][554]LogSavePackage: Moving '../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/BPA_Trajectory_Line90E3FE8B41D207BB7A6350A2817055C7.tmp' to '../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/Pick_Ups/BPA_Trajectory_Line.uasset'
+[2024.01.28-12.19.45:647][554]AssetCheck: New page: Asset Save: BPA_Trajectory_Line
+[2024.01.28-12.19.45:647][554]LogContentValidation: Display: Validating Blueprint /Game/Pick_Ups/BPA_Trajectory_Line.BPA_Trajectory_Line
+[2024.01.28-12.20.25:902][519]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Pick_Ups/BPA_Speed_Boost.BPA_Speed_Boost
+[2024.01.28-12.20.33:061][307]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.01.28-12.20.33:079][307]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.01.28-12.20.44:109][591]BlueprintLog: New page: Compile BPA_Speed_Boost
+[2024.01.28-12.20.44:154][591]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2024.01.28-12.20.52:451][530]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Pick_Ups/BPA_Speed_Boostent.BPA_Speed_Boostent
+[2024.01.28-12.20.55:818][894]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.01.28-12.20.55:834][894]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.01.28-12.21.01:512][556]BlueprintLog: New page: Compile BPA_Speed_Boostent
+[2024.01.28-12.21.01:556][556]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2024.01.28-12.21.02:332][643]LogSavePackage: Moving '../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/BPA_Speed_BoostentEA50DC954E2D98169A1C3DA9130A02C7.tmp' to '../../../../../../Users/Danny/OneDrive/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/Pick_Ups/BPA_Speed_Boostent.uasset'
+[2024.01.28-12.21.02:354][643]AssetCheck: New page: Asset Save: BPA_Speed_Boostent
+[2024.01.28-12.21.02:354][643]LogContentValidation: Display: Validating Blueprint /Game/Pick_Ups/BPA_Speed_Boostent.BPA_Speed_Boostent
+[2024.01.28-12.21.21:340][904]BlueprintLog: New page: Compile BP_Player
+[2024.01.28-12.21.21:404][904]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
