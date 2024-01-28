@@ -1830,3 +1830,1111 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.01.28-10.56.10:716][642]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.162ms to complete.
 [2024.01.28-10.56.10:716][642]LogFileHelpers: Loading map 'Level_Pumpkin' took 0.161
 [2024.01.28-10.56.15:734][ 41]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Cali/Levels/Level_Pumpkin.Level_Pumpkin:PersistentLevel.Level_Pumpkin
+[2024.01.28-10.57.54:661][912]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2024.01.28-10.57.54:702][912]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Gio/MainMenu.MainMenu
+[2024.01.28-10.57.54:702][912]Cmd: MAP LOAD FILE="../../../../../../Users/b1061859/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/Gio/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.01.28-10.57.54:702][912]LightingResults: New page: Lighting Build
+[2024.01.28-10.57.54:702][912]LoadErrors: New page: Loading map: MainMenu.umap
+[2024.01.28-10.57.54:743][912]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-10.57.54:743][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-10.57.54:784][912]LogWorld: UWorld::CleanupWorld for Level_Pumpkin, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-10.57.54:785][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-10.57.54:785][912]MapCheck: New page: Map Check
+[2024.01.28-10.57.54:785][912]LightingResults: New page: Lighting Build
+[2024.01.28-10.57.54:819][912]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.28-10.57.54:830][912]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2024.01.28-10.57.54:831][912]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2024.01.28-10.57.54:840][912]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.28-10.57.54:841][912]LogAIModule: Creating AISystem for world MainMenu
+[2024.01.28-10.57.54:876][912]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2024.01.28-10.57.54:886][912]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.28-10.57.54:886][912]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.135ms to complete.
+[2024.01.28-10.57.54:886][912]LogFileHelpers: Loading map 'MainMenu' took 0.184
+[2024.01.28-10.58.04:852][709]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/THE_CAN/TheGreatestCanInHistory.TheGreatestCanInHistory
+[2024.01.28-11.00.09:753][221]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.01.28-11.00.10:543][271]LogEditorViewport: Clicking on Actor (LMB): TheGreatestCanInHistory_C (TheGreatestCanInHistory5)
+[2024.01.28-11.00.10:952][299]LogEditorViewport: Clicking on Actor (LMB): TheGreatestCanInHistory_C (TheGreatestCanInHistory5)
+[2024.01.28-11.00.49:903][926]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2024.01.28-11.00.49:929][926]LogSavePackage: Moving '../../../../../../Users/b1061859/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/MainMenu22AFCE01479FABB2915551867F1CA836.tmp' to '../../../../../../Users/b1061859/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/Gio/MainMenu.umap'
+[2024.01.28-11.00.49:967][926]AssetCheck: New page: Asset Save: MainMenu
+[2024.01.28-11.00.49:967][926]LogContentValidation: Display: Validating World /Game/Gio/MainMenu.MainMenu
+[2024.01.28-11.00.50:693][984]LogTemp: Repeating last play command: Selected Viewport
+[2024.01.28-11.00.50:703][984]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.01.28-11.00.50:704][984]LogPlayLevel: [PlayLevel] Compiling TheGreatestCanInHistory before play...
+[2024.01.28-11.00.50:806][984]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2024.01.28-11.00.50:806][984]LogPlayLevel: PlayLevel: Blueprint regeneration took 103 ms (1 blueprints)
+[2024.01.28-11.00.50:806][984]PIE: New page: PIE session: MainMenu (28 Jan 2024, 11:00:50)
+[2024.01.28-11.00.50:833][984]LogPlayLevel: Creating play world package: /Game/Gio/UEDPIE_0_MainMenu
+[2024.01.28-11.00.50:836][984]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003568s)
+[2024.01.28-11.00.50:837][984]LogAIModule: Creating AISystem for world MainMenu
+[2024.01.28-11.00.50:838][984]LogPlayLevel: PIE: World Init took: (0.001123s)
+[2024.01.28-11.00.50:838][984]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Gio/MainMenu.MainMenu to /Game/Gio/UEDPIE_0_MainMenu.MainMenu (0.004829s)
+[2024.01.28-11.00.50:887][984]LogUObjectHash: Compacting FUObjectHashTables data took  11.18ms
+[2024.01.28-11.00.50:888][984]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.01.28-11.00.50:888][984]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-11.00.50:888][984]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-11.00.50:888][984]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-11.00.50:888][984]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-11.00.50:888][984]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.28-11.00.50:888][984]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-11.00.50:888][984]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.28-11.00.50:888][984]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-11.00.50:889][984]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-11.00.50:889][984]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-11.00.50:889][984]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-11.00.50:889][984]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.28-11.00.50:895][984]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.28-11.00.50:895][984]LogAudioMixer: Display: 1: FrontRight
+[2024.01.28-11.00.50:918][984]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2024.01.28-11.00.50:918][984]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-11.00.50:918][984]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-11.00.50:918][984]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-11.00.50:919][984]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.28-11.00.50:919][984]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.28-11.00.50:919][984]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.28-11.00.50:921][984]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.28-11.00.50:921][984]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.28-11.00.50:921][984]LogInit: FAudioDevice initialized.
+[2024.01.28-11.00.50:921][984]LogAudio: Display: Audio Device (ID: 9) registered with world 'MainMenu'.
+[2024.01.28-11.00.50:934][984]LogLoad: Game class is 'BP_Multiplayer_C'
+[2024.01.28-11.00.50:941][984]LogWorld: Bringing World /Game/Gio/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.01.28-11.00.50
+[2024.01.28-11.00.50:943][984]LogWorld: Bringing up level for play took: 0.007709
+[2024.01.28-11.00.50:943][984]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2024.01.28-11.00.50:952][984]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2024.01.28-11.00.50:953][984]PIE: Server logged in
+[2024.01.28-11.00.50:954][984]PIE: Play in editor total start time 0.254 seconds.
+[2024.01.28-11.01.08:270][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-11.01.08:270][548]LogWorld: BeginTearingDown for /Game/Gio/UEDPIE_0_MainMenu
+[2024.01.28-11.01.08:270][548]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-11.01.08:271][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-11.01.08:287][548]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-11.01.08:303][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-11.01.08:344][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-11.01.08:344][548]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.28-11.01.08:346][548]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.28-11.01.08:356][548]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2024.01.28-11.01.08:409][549]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2024.01.28-11.01.18:287][326]BlueprintLog: New page: Compile TheGreatestCanInHistory
+[2024.01.28-11.01.18:362][326]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2024.01.28-11.01.18:806][351]LogSavePackage: Moving '../../../../../../Users/b1061859/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/TheGreatestCanInHistory53B1FA2B4D276D73C84DCFB884A04464.tmp' to '../../../../../../Users/b1061859/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/THE_CAN/TheGreatestCanInHistory.uasset'
+[2024.01.28-11.01.18:828][351]AssetCheck: New page: Asset Save: TheGreatestCanInHistory
+[2024.01.28-11.01.18:828][351]LogContentValidation: Display: Validating Blueprint /Game/THE_CAN/TheGreatestCanInHistory.TheGreatestCanInHistory
+[2024.01.28-11.01.19:729][422]LogTemp: Repeating last play command: Selected Viewport
+[2024.01.28-11.01.19:741][422]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.28-11.01.19:741][422]PIE: New page: PIE session: MainMenu (28 Jan 2024, 11:01:19)
+[2024.01.28-11.01.19:741][422]LogPlayLevel: Creating play world package: /Game/Gio/UEDPIE_0_MainMenu
+[2024.01.28-11.01.19:744][422]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003512s)
+[2024.01.28-11.01.19:745][422]LogAIModule: Creating AISystem for world MainMenu
+[2024.01.28-11.01.19:745][422]LogPlayLevel: PIE: World Init took: (0.001093s)
+[2024.01.28-11.01.19:745][422]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Gio/MainMenu.MainMenu to /Game/Gio/UEDPIE_0_MainMenu.MainMenu (0.004712s)
+[2024.01.28-11.01.19:784][422]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2024.01.28-11.01.19:784][422]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.01.28-11.01.19:784][422]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-11.01.19:784][422]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-11.01.19:784][422]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-11.01.19:784][422]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-11.01.19:784][422]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.28-11.01.19:784][422]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-11.01.19:784][422]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.28-11.01.19:784][422]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-11.01.19:785][422]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-11.01.19:785][422]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-11.01.19:785][422]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-11.01.19:785][422]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.28-11.01.19:788][422]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.28-11.01.19:788][422]LogAudioMixer: Display: 1: FrontRight
+[2024.01.28-11.01.19:810][422]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2024.01.28-11.01.19:810][422]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-11.01.19:810][422]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-11.01.19:810][422]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-11.01.19:811][422]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.28-11.01.19:811][422]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.28-11.01.19:811][422]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.28-11.01.19:812][422]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.28-11.01.19:812][422]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.28-11.01.19:812][422]LogInit: FAudioDevice initialized.
+[2024.01.28-11.01.19:812][422]LogAudio: Display: Audio Device (ID: 10) registered with world 'MainMenu'.
+[2024.01.28-11.01.19:835][422]LogLoad: Game class is 'BP_Multiplayer_C'
+[2024.01.28-11.01.19:839][422]LogWorld: Bringing World /Game/Gio/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.01.28-11.01.19
+[2024.01.28-11.01.19:840][422]LogWorld: Bringing up level for play took: 0.003382
+[2024.01.28-11.01.19:840][422]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2024.01.28-11.01.19:846][422]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2024.01.28-11.01.19:846][422]PIE: Server logged in
+[2024.01.28-11.01.19:847][422]PIE: Play in editor total start time 0.111 seconds.
+[2024.01.28-11.01.27:296][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-11.01.27:296][ 46]LogWorld: BeginTearingDown for /Game/Gio/UEDPIE_0_MainMenu
+[2024.01.28-11.01.27:297][ 46]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-11.01.27:297][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-11.01.27:308][ 46]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-11.01.27:324][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-11.01.27:364][ 46]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.28-11.01.27:364][ 46]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.28-11.01.27:366][ 46]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.28-11.01.27:368][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-11.01.27:374][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2024.01.28-11.01.27:429][ 47]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.01.28-11.01.47:295][562]Cmd: EDIT COPY
+[2024.01.28-11.01.47:723][596]Cmd: EDIT PASTE
+[2024.01.28-11.01.54:317][110]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2024.01.28-11.01.54:350][110]LogSavePackage: Moving '../../../../../../Users/b1061859/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/MainMenu357B83BD40967D90BBA99CB2FB5273B0.tmp' to '../../../../../../Users/b1061859/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/Gio/MainMenu.umap'
+[2024.01.28-11.01.54:383][110]AssetCheck: New page: Asset Save: MainMenu
+[2024.01.28-11.01.54:383][110]LogContentValidation: Display: Validating World /Game/Gio/MainMenu.MainMenu
+[2024.01.28-11.01.55:339][188]LogEditorViewport: Clicking on Actor (LMB): TheGreatestCanInHistory_C (TheGreatestCanInHistory23)
+[2024.01.28-11.02.09:987][400]LogTemp: Repeating last play command: Selected Viewport
+[2024.01.28-11.02.09:998][400]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.01.28-11.02.09:999][400]LogPlayLevel: [PlayLevel] Compiling TheGreatestCanInHistory before play...
+[2024.01.28-11.02.10:111][400]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2024.01.28-11.02.10:112][400]LogPlayLevel: PlayLevel: Blueprint regeneration took 113 ms (1 blueprints)
+[2024.01.28-11.02.10:112][400]PIE: New page: PIE session: MainMenu (28 Jan 2024, 11:02:10)
+[2024.01.28-11.02.10:112][400]LogPlayLevel: Creating play world package: /Game/Gio/UEDPIE_0_MainMenu
+[2024.01.28-11.02.10:116][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003940s)
+[2024.01.28-11.02.10:117][400]LogAIModule: Creating AISystem for world MainMenu
+[2024.01.28-11.02.10:117][400]LogPlayLevel: PIE: World Init took: (0.001096s)
+[2024.01.28-11.02.10:117][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Gio/MainMenu.MainMenu to /Game/Gio/UEDPIE_0_MainMenu.MainMenu (0.005140s)
+[2024.01.28-11.02.10:159][400]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2024.01.28-11.02.10:159][400]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.01.28-11.02.10:159][400]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-11.02.10:159][400]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-11.02.10:159][400]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-11.02.10:159][400]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-11.02.10:159][400]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.28-11.02.10:160][400]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-11.02.10:160][400]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.28-11.02.10:160][400]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-11.02.10:160][400]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-11.02.10:160][400]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-11.02.10:160][400]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-11.02.10:160][400]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.28-11.02.10:164][400]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.28-11.02.10:164][400]LogAudioMixer: Display: 1: FrontRight
+[2024.01.28-11.02.10:183][400]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2024.01.28-11.02.10:183][400]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-11.02.10:183][400]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-11.02.10:183][400]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-11.02.10:183][400]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.28-11.02.10:183][400]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.28-11.02.10:183][400]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.28-11.02.10:185][400]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.28-11.02.10:185][400]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.28-11.02.10:185][400]LogInit: FAudioDevice initialized.
+[2024.01.28-11.02.10:185][400]LogAudio: Display: Audio Device (ID: 11) registered with world 'MainMenu'.
+[2024.01.28-11.02.10:195][400]LogLoad: Game class is 'BP_Multiplayer_C'
+[2024.01.28-11.02.10:199][400]LogWorld: Bringing World /Game/Gio/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.01.28-11.02.10
+[2024.01.28-11.02.10:199][400]LogWorld: Bringing up level for play took: 0.003227
+[2024.01.28-11.02.10:200][400]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2024.01.28-11.02.10:206][400]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2024.01.28-11.02.10:207][400]PIE: Server logged in
+[2024.01.28-11.02.10:207][400]PIE: Play in editor total start time 0.212 seconds.
+[2024.01.28-11.02.42:186][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-11.02.42:187][197]LogWorld: BeginTearingDown for /Game/Gio/UEDPIE_0_MainMenu
+[2024.01.28-11.02.42:187][197]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-11.02.42:187][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-11.02.42:199][197]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-11.02.42:209][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-11.02.42:251][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-11.02.42:251][197]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.28-11.02.42:253][197]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.28-11.02.42:263][197]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2024.01.28-11.02.42:335][198]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.01.28-11.03.25:091][592]BlueprintLog: New page: Compile TheGreatestCanInHistory
+[2024.01.28-11.03.25:172][592]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2024.01.28-11.03.25:693][618]LogSavePackage: Moving '../../../../../../Users/b1061859/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/TheGreatestCanInHistory6C39E2734AC1AB20484F0EA8901A65D6.tmp' to '../../../../../../Users/b1061859/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/THE_CAN/TheGreatestCanInHistory.uasset'
+[2024.01.28-11.03.25:710][618]AssetCheck: New page: Asset Save: TheGreatestCanInHistory
+[2024.01.28-11.03.25:710][618]LogContentValidation: Display: Validating Blueprint /Game/THE_CAN/TheGreatestCanInHistory.TheGreatestCanInHistory
+[2024.01.28-11.03.26:391][670]LogTemp: Repeating last play command: Selected Viewport
+[2024.01.28-11.03.26:402][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.28-11.03.26:402][670]PIE: New page: PIE session: MainMenu (28 Jan 2024, 11:03:26)
+[2024.01.28-11.03.26:402][670]LogPlayLevel: Creating play world package: /Game/Gio/UEDPIE_0_MainMenu
+[2024.01.28-11.03.26:406][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004208s)
+[2024.01.28-11.03.26:407][670]LogAIModule: Creating AISystem for world MainMenu
+[2024.01.28-11.03.26:407][670]LogPlayLevel: PIE: World Init took: (0.001131s)
+[2024.01.28-11.03.26:407][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Gio/MainMenu.MainMenu to /Game/Gio/UEDPIE_0_MainMenu.MainMenu (0.005449s)
+[2024.01.28-11.03.26:446][670]LogUObjectHash: Compacting FUObjectHashTables data took   6.62ms
+[2024.01.28-11.03.26:447][670]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.01.28-11.03.26:447][670]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-11.03.26:447][670]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-11.03.26:447][670]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-11.03.26:447][670]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-11.03.26:447][670]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.28-11.03.26:447][670]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-11.03.26:447][670]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.28-11.03.26:447][670]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-11.03.26:448][670]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-11.03.26:448][670]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-11.03.26:448][670]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-11.03.26:448][670]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.28-11.03.26:452][670]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.28-11.03.26:452][670]LogAudioMixer: Display: 1: FrontRight
+[2024.01.28-11.03.26:478][670]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2024.01.28-11.03.26:479][670]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-11.03.26:479][670]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-11.03.26:479][670]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-11.03.26:479][670]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.28-11.03.26:480][670]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.28-11.03.26:480][670]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.28-11.03.26:481][670]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.28-11.03.26:481][670]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.28-11.03.26:481][670]LogInit: FAudioDevice initialized.
+[2024.01.28-11.03.26:481][670]LogAudio: Display: Audio Device (ID: 12) registered with world 'MainMenu'.
+[2024.01.28-11.03.26:498][670]LogLoad: Game class is 'BP_Multiplayer_C'
+[2024.01.28-11.03.26:501][670]LogWorld: Bringing World /Game/Gio/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.01.28-11.03.26
+[2024.01.28-11.03.26:502][670]LogWorld: Bringing up level for play took: 0.003801
+[2024.01.28-11.03.26:502][670]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2024.01.28-11.03.26:509][670]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2024.01.28-11.03.26:509][670]PIE: Server logged in
+[2024.01.28-11.03.26:510][670]PIE: Play in editor total start time 0.111 seconds.
+[2024.01.28-11.04.01:876][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-11.04.01:877][857]LogWorld: BeginTearingDown for /Game/Gio/UEDPIE_0_MainMenu
+[2024.01.28-11.04.01:877][857]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-11.04.01:877][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-11.04.01:894][857]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-11.04.01:904][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-11.04.01:946][857]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.28-11.04.01:947][857]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.28-11.04.01:948][857]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.28-11.04.01:952][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-11.04.01:958][857]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2024.01.28-11.04.02:013][858]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.01.28-11.04.33:402][349]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2024.01.28-11.04.33:433][349]LogSavePackage: Moving '../../../../../../Users/b1061859/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/MainMenuDC0738E3444276947E644C8331A6F304.tmp' to '../../../../../../Users/b1061859/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/Gio/MainMenu.umap'
+[2024.01.28-11.04.33:461][349]AssetCheck: New page: Asset Save: MainMenu
+[2024.01.28-11.04.33:461][349]LogContentValidation: Display: Validating World /Game/Gio/MainMenu.MainMenu
+[2024.01.28-11.04.40:791][903]LogTemp: Repeating last play command: Selected Viewport
+[2024.01.28-11.04.40:802][903]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.01.28-11.04.40:802][903]LogPlayLevel: [PlayLevel] Compiling TheGreatestCanInHistory before play...
+[2024.01.28-11.04.40:939][903]LogUObjectHash: Compacting FUObjectHashTables data took  13.40ms
+[2024.01.28-11.04.40:940][903]LogPlayLevel: PlayLevel: Blueprint regeneration took 138 ms (1 blueprints)
+[2024.01.28-11.04.40:940][903]PIE: New page: PIE session: MainMenu (28 Jan 2024, 11:04:40)
+[2024.01.28-11.04.40:940][903]LogPlayLevel: Creating play world package: /Game/Gio/UEDPIE_0_MainMenu
+[2024.01.28-11.04.40:947][903]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006702s)
+[2024.01.28-11.04.40:948][903]LogAIModule: Creating AISystem for world MainMenu
+[2024.01.28-11.04.40:949][903]LogPlayLevel: PIE: World Init took: (0.001448s)
+[2024.01.28-11.04.40:949][903]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Gio/MainMenu.MainMenu to /Game/Gio/UEDPIE_0_MainMenu.MainMenu (0.008311s)
+[2024.01.28-11.04.41:001][903]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2024.01.28-11.04.41:001][903]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.01.28-11.04.41:001][903]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-11.04.41:001][903]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-11.04.41:001][903]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-11.04.41:001][903]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-11.04.41:001][903]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.28-11.04.41:001][903]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-11.04.41:001][903]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.28-11.04.41:001][903]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-11.04.41:002][903]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-11.04.41:002][903]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-11.04.41:002][903]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-11.04.41:002][903]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.28-11.04.41:006][903]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.28-11.04.41:006][903]LogAudioMixer: Display: 1: FrontRight
+[2024.01.28-11.04.41:031][903]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2024.01.28-11.04.41:032][903]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-11.04.41:032][903]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-11.04.41:032][903]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-11.04.41:033][903]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.28-11.04.41:033][903]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.28-11.04.41:033][903]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.28-11.04.41:035][903]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.28-11.04.41:035][903]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.28-11.04.41:035][903]LogInit: FAudioDevice initialized.
+[2024.01.28-11.04.41:035][903]LogAudio: Display: Audio Device (ID: 13) registered with world 'MainMenu'.
+[2024.01.28-11.04.41:044][903]LogLoad: Game class is 'BP_Multiplayer_C'
+[2024.01.28-11.04.41:048][903]LogWorld: Bringing World /Game/Gio/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.01.28-11.04.41
+[2024.01.28-11.04.41:048][903]LogWorld: Bringing up level for play took: 0.003394
+[2024.01.28-11.04.41:048][903]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2024.01.28-11.04.41:054][903]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2024.01.28-11.04.41:055][903]PIE: Server logged in
+[2024.01.28-11.04.41:055][903]PIE: Play in editor total start time 0.257 seconds.
+[2024.01.28-11.05.08:763][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-11.05.08:764][264]LogWorld: BeginTearingDown for /Game/Gio/UEDPIE_0_MainMenu
+[2024.01.28-11.05.08:764][264]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-11.05.08:765][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-11.05.08:786][264]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-11.05.08:798][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-11.05.08:851][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-11.05.08:852][264]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.28-11.05.08:853][264]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.28-11.05.08:872][264]LogUObjectHash: Compacting FUObjectHashTables data took  12.52ms
+[2024.01.28-11.05.08:938][265]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.01.28-11.05.29:130][731]BlueprintLog: New page: Compile TheGreatestCanInHistory
+[2024.01.28-11.05.29:223][731]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2024.01.28-11.05.29:643][754]LogSavePackage: Moving '../../../../../../Users/b1061859/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/TheGreatestCanInHistory48511DCA4C3817F68E7A98ADB74AAD78.tmp' to '../../../../../../Users/b1061859/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/THE_CAN/TheGreatestCanInHistory.uasset'
+[2024.01.28-11.05.29:659][754]AssetCheck: New page: Asset Save: TheGreatestCanInHistory
+[2024.01.28-11.05.29:659][754]LogContentValidation: Display: Validating Blueprint /Game/THE_CAN/TheGreatestCanInHistory.TheGreatestCanInHistory
+[2024.01.28-11.05.42:120][715]LogTemp: Repeating last play command: Selected Viewport
+[2024.01.28-11.05.42:131][715]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.28-11.05.42:131][715]PIE: New page: PIE session: MainMenu (28 Jan 2024, 11:05:42)
+[2024.01.28-11.05.42:163][715]LogPlayLevel: Creating play world package: /Game/Gio/UEDPIE_0_MainMenu
+[2024.01.28-11.05.42:172][715]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008599s)
+[2024.01.28-11.05.42:173][715]LogAIModule: Creating AISystem for world MainMenu
+[2024.01.28-11.05.42:174][715]LogPlayLevel: PIE: World Init took: (0.001869s)
+[2024.01.28-11.05.42:174][715]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Gio/MainMenu.MainMenu to /Game/Gio/UEDPIE_0_MainMenu.MainMenu (0.010726s)
+[2024.01.28-11.05.42:234][715]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2024.01.28-11.05.42:235][715]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.01.28-11.05.42:235][715]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-11.05.42:235][715]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-11.05.42:235][715]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-11.05.42:235][715]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-11.05.42:235][715]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.28-11.05.42:235][715]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-11.05.42:236][715]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.28-11.05.42:236][715]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-11.05.42:236][715]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-11.05.42:236][715]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-11.05.42:236][715]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-11.05.42:236][715]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.28-11.05.42:240][715]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.28-11.05.42:240][715]LogAudioMixer: Display: 1: FrontRight
+[2024.01.28-11.05.42:259][715]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2024.01.28-11.05.42:260][715]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-11.05.42:260][715]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-11.05.42:260][715]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-11.05.42:260][715]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.28-11.05.42:260][715]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.28-11.05.42:260][715]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.28-11.05.42:263][715]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.28-11.05.42:263][715]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.28-11.05.42:263][715]LogInit: FAudioDevice initialized.
+[2024.01.28-11.05.42:263][715]LogAudio: Display: Audio Device (ID: 14) registered with world 'MainMenu'.
+[2024.01.28-11.05.42:287][715]LogLoad: Game class is 'BP_Multiplayer_C'
+[2024.01.28-11.05.42:291][715]LogWorld: Bringing World /Game/Gio/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.01.28-11.05.42
+[2024.01.28-11.05.42:292][715]LogWorld: Bringing up level for play took: 0.003723
+[2024.01.28-11.05.42:292][715]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2024.01.28-11.05.42:299][715]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2024.01.28-11.05.42:299][715]PIE: Server logged in
+[2024.01.28-11.05.42:300][715]PIE: Play in editor total start time 0.172 seconds.
+[2024.01.28-11.05.43:618][813]LogSavePackage: Moving '../../../../../../Users/b1061859/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/TheGreatestCanInHistoryB1C41E4C40A650401B0910A3A3CDB55A.tmp' to '../../../../../../Users/b1061859/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/THE_CAN/TheGreatestCanInHistory.uasset'
+[2024.01.28-11.05.43:627][813]AssetCheck: New page: Asset Save: TheGreatestCanInHistory
+[2024.01.28-11.05.43:627][813]LogContentValidation: Display: Validating Blueprint /Game/THE_CAN/TheGreatestCanInHistory.TheGreatestCanInHistory
+[2024.01.28-11.06.14:963][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-11.06.14:963][640]LogWorld: BeginTearingDown for /Game/Gio/UEDPIE_0_MainMenu
+[2024.01.28-11.06.14:964][640]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-11.06.14:965][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-11.06.14:990][640]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-11.06.15:005][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-11.06.15:060][640]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.28-11.06.15:060][640]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.28-11.06.15:062][640]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.28-11.06.15:067][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-11.06.15:073][640]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2024.01.28-11.06.15:147][641]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.01.28-11.06.56:211][632]BlueprintLog: New page: Compile TheGreatestCanInHistory
+[2024.01.28-11.06.56:303][632]LogUObjectHash: Compacting FUObjectHashTables data took   5.78ms
+[2024.01.28-11.06.56:713][655]LogSavePackage: Moving '../../../../../../Users/b1061859/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/TheGreatestCanInHistory4E10F62F44C47886E17F3A8B53C4A9A9.tmp' to '../../../../../../Users/b1061859/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/THE_CAN/TheGreatestCanInHistory.uasset'
+[2024.01.28-11.06.56:733][655]AssetCheck: New page: Asset Save: TheGreatestCanInHistory
+[2024.01.28-11.06.56:733][655]LogContentValidation: Display: Validating Blueprint /Game/THE_CAN/TheGreatestCanInHistory.TheGreatestCanInHistory
+[2024.01.28-11.06.57:891][734]LogTemp: Repeating last play command: Selected Viewport
+[2024.01.28-11.06.57:903][734]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.28-11.06.57:903][734]PIE: New page: PIE session: MainMenu (28 Jan 2024, 11:06:57)
+[2024.01.28-11.06.57:903][734]LogPlayLevel: Creating play world package: /Game/Gio/UEDPIE_0_MainMenu
+[2024.01.28-11.06.57:907][734]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004113s)
+[2024.01.28-11.06.57:908][734]LogAIModule: Creating AISystem for world MainMenu
+[2024.01.28-11.06.57:908][734]LogPlayLevel: PIE: World Init took: (0.001065s)
+[2024.01.28-11.06.57:908][734]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Gio/MainMenu.MainMenu to /Game/Gio/UEDPIE_0_MainMenu.MainMenu (0.005284s)
+[2024.01.28-11.06.57:949][734]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2024.01.28-11.06.57:950][734]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.01.28-11.06.57:950][734]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-11.06.57:950][734]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-11.06.57:950][734]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-11.06.57:950][734]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-11.06.57:950][734]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.28-11.06.57:950][734]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-11.06.57:950][734]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.28-11.06.57:950][734]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-11.06.57:951][734]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-11.06.57:951][734]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-11.06.57:951][734]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-11.06.57:951][734]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.28-11.06.57:955][734]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.28-11.06.57:955][734]LogAudioMixer: Display: 1: FrontRight
+[2024.01.28-11.06.57:982][734]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2024.01.28-11.06.57:983][734]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-11.06.57:983][734]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-11.06.57:983][734]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-11.06.57:983][734]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.28-11.06.57:983][734]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.28-11.06.57:983][734]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.28-11.06.57:984][734]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.28-11.06.57:984][734]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.28-11.06.57:984][734]LogInit: FAudioDevice initialized.
+[2024.01.28-11.06.57:985][734]LogAudio: Display: Audio Device (ID: 15) registered with world 'MainMenu'.
+[2024.01.28-11.06.58:010][734]LogLoad: Game class is 'BP_Multiplayer_C'
+[2024.01.28-11.06.58:016][734]LogWorld: Bringing World /Game/Gio/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.01.28-11.06.58
+[2024.01.28-11.06.58:017][734]LogWorld: Bringing up level for play took: 0.005560
+[2024.01.28-11.06.58:017][734]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2024.01.28-11.06.58:027][734]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2024.01.28-11.06.58:027][734]PIE: Server logged in
+[2024.01.28-11.06.58:028][734]PIE: Play in editor total start time 0.128 seconds.
+[2024.01.28-11.07.30:378][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-11.07.30:378][578]LogWorld: BeginTearingDown for /Game/Gio/UEDPIE_0_MainMenu
+[2024.01.28-11.07.30:378][578]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-11.07.30:379][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-11.07.30:392][578]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-11.07.30:405][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-11.07.30:456][578]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.28-11.07.30:457][578]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.28-11.07.30:459][578]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.28-11.07.30:470][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-11.07.30:485][578]LogUObjectHash: Compacting FUObjectHashTables data took  12.04ms
+[2024.01.28-11.07.30:534][579]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.01.28-11.07.35:298][971]LogEditorViewport: Clicking on Actor (LMB): TheGreatestCanInHistory_C (TheGreatestCanInHistory6)
+[2024.01.28-11.09.35:475][558]LogUObjectHash: Compacting FUObjectHashTables data took   9.91ms
+[2024.01.28-11.09.35:510][558]LogSavePackage: Moving '../../../../../../Users/b1061859/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/MainMenu0EE215B84BA03454BECB829880E15139.tmp' to '../../../../../../Users/b1061859/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/Gio/MainMenu.umap'
+[2024.01.28-11.09.35:557][558]AssetCheck: New page: Asset Save: MainMenu
+[2024.01.28-11.09.35:557][558]LogContentValidation: Display: Validating World /Game/Gio/MainMenu.MainMenu
+[2024.01.28-11.09.37:708][701]BlueprintLog: New page: Compile TheGreatestCanInHistory
+[2024.01.28-11.09.37:799][701]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2024.01.28-11.09.38:319][725]LogSavePackage: Moving '../../../../../../Users/b1061859/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/TheGreatestCanInHistory5E47A6D2439A7A151971DFA0BA349C98.tmp' to '../../../../../../Users/b1061859/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/THE_CAN/TheGreatestCanInHistory.uasset'
+[2024.01.28-11.09.38:342][725]AssetCheck: New page: Asset Save: TheGreatestCanInHistory
+[2024.01.28-11.09.38:342][725]LogContentValidation: Display: Validating Blueprint /Game/THE_CAN/TheGreatestCanInHistory.TheGreatestCanInHistory
+[2024.01.28-11.09.38:950][762]LogTemp: Repeating last play command: Selected Viewport
+[2024.01.28-11.09.38:961][762]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.28-11.09.38:961][762]PIE: New page: PIE session: MainMenu (28 Jan 2024, 11:09:38)
+[2024.01.28-11.09.38:983][762]LogPlayLevel: Creating play world package: /Game/Gio/UEDPIE_0_MainMenu
+[2024.01.28-11.09.38:992][762]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008780s)
+[2024.01.28-11.09.38:994][762]LogAIModule: Creating AISystem for world MainMenu
+[2024.01.28-11.09.38:994][762]LogPlayLevel: PIE: World Init took: (0.002291s)
+[2024.01.28-11.09.38:994][762]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Gio/MainMenu.MainMenu to /Game/Gio/UEDPIE_0_MainMenu.MainMenu (0.011318s)
+[2024.01.28-11.09.39:054][762]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2024.01.28-11.09.39:055][762]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.01.28-11.09.39:055][762]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-11.09.39:055][762]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-11.09.39:055][762]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-11.09.39:055][762]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-11.09.39:055][762]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.28-11.09.39:055][762]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-11.09.39:055][762]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.28-11.09.39:055][762]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-11.09.39:056][762]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-11.09.39:056][762]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-11.09.39:056][762]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-11.09.39:056][762]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.28-11.09.39:059][762]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.28-11.09.39:059][762]LogAudioMixer: Display: 1: FrontRight
+[2024.01.28-11.09.39:085][762]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2024.01.28-11.09.39:086][762]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-11.09.39:086][762]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-11.09.39:086][762]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-11.09.39:087][762]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.28-11.09.39:087][762]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.28-11.09.39:087][762]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.28-11.09.39:089][762]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.28-11.09.39:089][762]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.28-11.09.39:089][762]LogInit: FAudioDevice initialized.
+[2024.01.28-11.09.39:089][762]LogAudio: Display: Audio Device (ID: 16) registered with world 'MainMenu'.
+[2024.01.28-11.09.39:108][762]LogLoad: Game class is 'BP_Multiplayer_C'
+[2024.01.28-11.09.39:116][762]LogWorld: Bringing World /Game/Gio/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.01.28-11.09.39
+[2024.01.28-11.09.39:117][762]LogWorld: Bringing up level for play took: 0.008313
+[2024.01.28-11.09.39:118][762]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2024.01.28-11.09.39:128][762]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2024.01.28-11.09.39:128][762]PIE: Server logged in
+[2024.01.28-11.09.39:129][762]PIE: Play in editor total start time 0.172 seconds.
+[2024.01.28-11.10.07:747][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-11.10.07:747][ 33]LogWorld: BeginTearingDown for /Game/Gio/UEDPIE_0_MainMenu
+[2024.01.28-11.10.07:748][ 33]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-11.10.07:748][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-11.10.07:766][ 33]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-11.10.07:776][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-11.10.07:822][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-11.10.07:823][ 33]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.28-11.10.07:825][ 33]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.28-11.10.07:837][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2024.01.28-11.10.07:899][ 34]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.01.28-11.10.13:129][404]BlueprintLog: New page: Compile TheGreatestCanInHistory
+[2024.01.28-11.10.13:220][404]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2024.01.28-11.10.13:618][424]LogSavePackage: Moving '../../../../../../Users/b1061859/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/TheGreatestCanInHistory90F733124D296745A1ECDF887B813B6A.tmp' to '../../../../../../Users/b1061859/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/THE_CAN/TheGreatestCanInHistory.uasset'
+[2024.01.28-11.10.13:645][424]AssetCheck: New page: Asset Save: TheGreatestCanInHistory
+[2024.01.28-11.10.13:645][424]LogContentValidation: Display: Validating Blueprint /Game/THE_CAN/TheGreatestCanInHistory.TheGreatestCanInHistory
+[2024.01.28-11.10.14:626][499]LogTemp: Repeating last play command: Selected Viewport
+[2024.01.28-11.10.14:637][499]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.28-11.10.14:637][499]PIE: New page: PIE session: MainMenu (28 Jan 2024, 11:10:14)
+[2024.01.28-11.10.14:637][499]LogPlayLevel: Creating play world package: /Game/Gio/UEDPIE_0_MainMenu
+[2024.01.28-11.10.14:641][499]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004027s)
+[2024.01.28-11.10.14:642][499]LogAIModule: Creating AISystem for world MainMenu
+[2024.01.28-11.10.14:642][499]LogPlayLevel: PIE: World Init took: (0.001056s)
+[2024.01.28-11.10.14:642][499]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Gio/MainMenu.MainMenu to /Game/Gio/UEDPIE_0_MainMenu.MainMenu (0.005184s)
+[2024.01.28-11.10.14:681][499]LogUObjectHash: Compacting FUObjectHashTables data took   6.92ms
+[2024.01.28-11.10.14:682][499]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.01.28-11.10.14:682][499]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-11.10.14:682][499]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-11.10.14:682][499]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-11.10.14:682][499]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-11.10.14:682][499]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.28-11.10.14:682][499]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-11.10.14:682][499]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.28-11.10.14:682][499]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-11.10.14:682][499]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-11.10.14:682][499]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-11.10.14:682][499]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-11.10.14:682][499]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.28-11.10.14:686][499]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.28-11.10.14:686][499]LogAudioMixer: Display: 1: FrontRight
+[2024.01.28-11.10.14:703][499]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2024.01.28-11.10.14:704][499]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-11.10.14:704][499]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-11.10.14:704][499]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-11.10.14:704][499]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.28-11.10.14:704][499]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.28-11.10.14:704][499]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.28-11.10.14:705][499]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.28-11.10.14:705][499]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.28-11.10.14:705][499]LogInit: FAudioDevice initialized.
+[2024.01.28-11.10.14:705][499]LogAudio: Display: Audio Device (ID: 17) registered with world 'MainMenu'.
+[2024.01.28-11.10.14:736][499]LogLoad: Game class is 'BP_Multiplayer_C'
+[2024.01.28-11.10.14:742][499]LogWorld: Bringing World /Game/Gio/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.01.28-11.10.14
+[2024.01.28-11.10.14:743][499]LogWorld: Bringing up level for play took: 0.005340
+[2024.01.28-11.10.14:743][499]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2024.01.28-11.10.14:753][499]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2024.01.28-11.10.14:754][499]PIE: Server logged in
+[2024.01.28-11.10.14:755][499]PIE: Play in editor total start time 0.122 seconds.
+[2024.01.28-11.10.33:134][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-11.10.33:135][952]LogWorld: BeginTearingDown for /Game/Gio/UEDPIE_0_MainMenu
+[2024.01.28-11.10.33:135][952]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-11.10.33:136][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-11.10.33:159][952]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-11.10.33:178][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-11.10.33:237][952]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.28-11.10.33:238][952]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.28-11.10.33:240][952]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.28-11.10.33:245][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-11.10.33:260][952]LogUObjectHash: Compacting FUObjectHashTables data took  12.72ms
+[2024.01.28-11.10.33:326][953]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2024.01.28-11.10.41:702][560]LogSavePackage: Moving '../../../../../../Users/b1061859/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/TheGreatestCanInHistoryB2B382894E29BD4D7B32018E27532E84.tmp' to '../../../../../../Users/b1061859/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/THE_CAN/TheGreatestCanInHistory.uasset'
+[2024.01.28-11.10.41:719][560]AssetCheck: New page: Asset Save: TheGreatestCanInHistory
+[2024.01.28-11.10.41:719][560]LogContentValidation: Display: Validating Blueprint /Game/THE_CAN/TheGreatestCanInHistory.TheGreatestCanInHistory
+[2024.01.28-11.10.43:682][691]LogTemp: Repeating last play command: Selected Viewport
+[2024.01.28-11.10.43:693][691]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.01.28-11.10.43:693][691]LogPlayLevel: [PlayLevel] Compiling TheGreatestCanInHistory before play...
+[2024.01.28-11.10.43:820][691]LogUObjectHash: Compacting FUObjectHashTables data took   5.67ms
+[2024.01.28-11.10.43:821][691]LogPlayLevel: PlayLevel: Blueprint regeneration took 127 ms (1 blueprints)
+[2024.01.28-11.10.43:821][691]PIE: New page: PIE session: MainMenu (28 Jan 2024, 11:10:43)
+[2024.01.28-11.10.43:821][691]LogPlayLevel: Creating play world package: /Game/Gio/UEDPIE_0_MainMenu
+[2024.01.28-11.10.43:825][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003981s)
+[2024.01.28-11.10.43:826][691]LogAIModule: Creating AISystem for world MainMenu
+[2024.01.28-11.10.43:826][691]LogPlayLevel: PIE: World Init took: (0.001086s)
+[2024.01.28-11.10.43:826][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Gio/MainMenu.MainMenu to /Game/Gio/UEDPIE_0_MainMenu.MainMenu (0.005176s)
+[2024.01.28-11.10.43:862][691]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2024.01.28-11.10.43:862][691]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.01.28-11.10.43:862][691]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-11.10.43:862][691]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-11.10.43:862][691]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-11.10.43:862][691]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-11.10.43:862][691]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.28-11.10.43:862][691]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-11.10.43:862][691]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.28-11.10.43:862][691]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-11.10.43:863][691]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-11.10.43:863][691]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-11.10.43:863][691]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-11.10.43:863][691]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.28-11.10.43:867][691]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.28-11.10.43:867][691]LogAudioMixer: Display: 1: FrontRight
+[2024.01.28-11.10.43:886][691]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2024.01.28-11.10.43:887][691]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-11.10.43:887][691]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-11.10.43:887][691]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-11.10.43:887][691]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.28-11.10.43:887][691]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.28-11.10.43:887][691]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.28-11.10.43:888][691]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.28-11.10.43:888][691]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.28-11.10.43:888][691]LogInit: FAudioDevice initialized.
+[2024.01.28-11.10.43:888][691]LogAudio: Display: Audio Device (ID: 18) registered with world 'MainMenu'.
+[2024.01.28-11.10.43:900][691]LogLoad: Game class is 'BP_Multiplayer_C'
+[2024.01.28-11.10.43:903][691]LogWorld: Bringing World /Game/Gio/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.01.28-11.10.43
+[2024.01.28-11.10.43:904][691]LogWorld: Bringing up level for play took: 0.003456
+[2024.01.28-11.10.43:904][691]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2024.01.28-11.10.43:910][691]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2024.01.28-11.10.43:910][691]PIE: Server logged in
+[2024.01.28-11.10.43:911][691]PIE: Play in editor total start time 0.221 seconds.
+[2024.01.28-11.11.10:988][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-11.11.10:988][923]LogWorld: BeginTearingDown for /Game/Gio/UEDPIE_0_MainMenu
+[2024.01.28-11.11.10:989][923]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-11.11.10:990][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-11.11.11:015][923]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-11.11.11:028][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-11.11.11:073][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-11.11.11:073][923]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.28-11.11.11:076][923]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.28-11.11.11:087][923]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2024.01.28-11.11.11:152][924]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.01.28-11.11.28:923][217]Cmd: EDIT COPY
+[2024.01.28-11.11.32:147][426]Cmd: EDIT PASTE
+[2024.01.28-11.11.37:062][783]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.01.28-11.11.44:212][296]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2024.01.28-11.11.44:252][296]LogSavePackage: Moving '../../../../../../Users/b1061859/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/MainMenu671FB50B482ABA2A7AAA85B401D7DDC4.tmp' to '../../../../../../Users/b1061859/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/Gio/MainMenu.umap'
+[2024.01.28-11.11.44:292][296]AssetCheck: New page: Asset Save: MainMenu
+[2024.01.28-11.11.44:292][296]LogContentValidation: Display: Validating World /Game/Gio/MainMenu.MainMenu
+[2024.01.28-11.12.00:784][586]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.01.28-11.12.01:827][648]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2024.01.28-11.12.01:864][648]LogSavePackage: Moving '../../../../../../Users/b1061859/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/MainMenu1527545B4350B0A36EF9BD8C7D80E695.tmp' to '../../../../../../Users/b1061859/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/Gio/MainMenu.umap'
+[2024.01.28-11.12.01:909][648]AssetCheck: New page: Asset Save: MainMenu
+[2024.01.28-11.12.01:909][648]LogContentValidation: Display: Validating World /Game/Gio/MainMenu.MainMenu
+[2024.01.28-11.12.02:624][689]LogTemp: Repeating last play command: Selected Viewport
+[2024.01.28-11.12.02:635][689]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.01.28-11.12.02:635][689]LogPlayLevel: [PlayLevel] Compiling TheGreatestCanInHistory before play...
+[2024.01.28-11.12.02:815][689]LogUObjectHash: Compacting FUObjectHashTables data took  15.10ms
+[2024.01.28-11.12.02:816][689]LogPlayLevel: PlayLevel: Blueprint regeneration took 181 ms (1 blueprints)
+[2024.01.28-11.12.02:816][689]PIE: New page: PIE session: MainMenu (28 Jan 2024, 11:12:02)
+[2024.01.28-11.12.02:854][689]LogPlayLevel: Creating play world package: /Game/Gio/UEDPIE_0_MainMenu
+[2024.01.28-11.12.02:868][689]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013824s)
+[2024.01.28-11.12.02:870][689]LogAIModule: Creating AISystem for world MainMenu
+[2024.01.28-11.12.02:870][689]LogPlayLevel: PIE: World Init took: (0.002531s)
+[2024.01.28-11.12.02:871][689]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Gio/MainMenu.MainMenu to /Game/Gio/UEDPIE_0_MainMenu.MainMenu (0.016651s)
+[2024.01.28-11.12.02:932][689]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2024.01.28-11.12.02:932][689]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.01.28-11.12.02:932][689]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-11.12.02:932][689]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-11.12.02:932][689]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-11.12.02:933][689]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-11.12.02:933][689]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.28-11.12.02:933][689]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-11.12.02:933][689]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.28-11.12.02:933][689]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-11.12.02:933][689]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-11.12.02:933][689]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-11.12.02:933][689]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-11.12.02:933][689]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.28-11.12.02:937][689]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.28-11.12.02:937][689]LogAudioMixer: Display: 1: FrontRight
+[2024.01.28-11.12.02:956][689]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2024.01.28-11.12.02:957][689]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-11.12.02:957][689]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-11.12.02:957][689]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-11.12.02:958][689]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.28-11.12.02:958][689]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.28-11.12.02:958][689]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.28-11.12.02:960][689]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.28-11.12.02:960][689]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.28-11.12.02:960][689]LogInit: FAudioDevice initialized.
+[2024.01.28-11.12.02:960][689]LogAudio: Display: Audio Device (ID: 19) registered with world 'MainMenu'.
+[2024.01.28-11.12.02:973][689]LogLoad: Game class is 'BP_Multiplayer_C'
+[2024.01.28-11.12.02:981][689]LogWorld: Bringing World /Game/Gio/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.01.28-11.12.02
+[2024.01.28-11.12.02:982][689]LogWorld: Bringing up level for play took: 0.007836
+[2024.01.28-11.12.02:983][689]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2024.01.28-11.12.02:992][689]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2024.01.28-11.12.02:992][689]PIE: Server logged in
+[2024.01.28-11.12.02:993][689]PIE: Play in editor total start time 0.361 seconds.
+[2024.01.28-11.12.31:871][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-11.12.31:871][221]LogWorld: BeginTearingDown for /Game/Gio/UEDPIE_0_MainMenu
+[2024.01.28-11.12.31:872][221]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-11.12.31:872][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-11.12.31:895][221]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-11.12.31:906][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-11.12.31:953][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-11.12.31:954][221]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.28-11.12.31:955][221]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.28-11.12.31:966][221]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2024.01.28-11.12.32:027][222]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.01.28-11.12.48:852][427]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2024.01.28-11.14.45:332][522]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Gio/BP_Multiplayer.BP_Multiplayer
+[2024.01.28-11.15.24:992][ 56]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2024.01.28-11.16.13:493][587]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2024.01.28-11.16.15:155][587]LogSlate: Window 'Save Content' being destroyed
+[2024.01.28-11.16.15:262][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.01.28-11.16.15:310][587]LogSavePackage: Moving '../../../../../../Users/b1061859/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/MainMenu4778B4D044755EFAB9B99781AFEC1051.tmp' to '../../../../../../Users/b1061859/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/Gio/MainMenu.umap'
+[2024.01.28-11.16.15:328][587]LogFileHelpers: Saving map 'MainMenu' took 0.124
+[2024.01.28-11.16.15:377][587]LogSavePackage: Moving '../../../../../../Users/b1061859/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/TheGreatestCanInHistory15E6E0B640814ED446ACFDB75F5F996E.tmp' to '../../../../../../Users/b1061859/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/THE_CAN/TheGreatestCanInHistory.uasset'
+[2024.01.28-11.16.15:398][587]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Gio/MainMenu.MainMenu
+[2024.01.28-11.16.15:398][587]Cmd: MAP LOAD FILE="../../../../../../Users/b1061859/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/Gio/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.01.28-11.16.15:398][587]LightingResults: New page: Lighting Build
+[2024.01.28-11.16.15:398][587]LoadErrors: New page: Loading map: MainMenu.umap
+[2024.01.28-11.16.15:401][587]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-11.16.15:401][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-11.16.15:401][587]MapCheck: New page: Map Check
+[2024.01.28-11.16.15:401][587]LightingResults: New page: Lighting Build
+[2024.01.28-11.16.15:442][587]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.28-11.16.15:448][587]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2024.01.28-11.16.15:458][587]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2024.01.28-11.16.15:458][587]LogAIModule: Creating AISystem for world MainMenu
+[2024.01.28-11.16.15:477][587]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.28-11.16.15:527][587]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2024.01.28-11.16.15:537][587]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.28-11.16.15:538][587]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.14ms to complete.
+[2024.01.28-11.16.15:538][587]LogFileHelpers: Loading map 'MainMenu' took 0.139
+[2024.01.28-11.16.15:561][587]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.28-11.16.15:562][587]LogContentValidation: Display: Validating Blueprint /Game/THE_CAN/TheGreatestCanInHistory.TheGreatestCanInHistory
+[2024.01.28-11.16.15:562][587]LogContentValidation: Display: Validating World /Game/Gio/MainMenu.MainMenu
+[2024.01.28-11.16.20:273][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.01.28-11.16.20:332][954]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Gio/TestWorld.TestWorld
+[2024.01.28-11.16.20:332][954]Cmd: MAP LOAD FILE="../../../../../../Users/b1061859/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/Gio/TestWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.01.28-11.16.20:332][954]LightingResults: New page: Lighting Build
+[2024.01.28-11.16.20:332][954]LoadErrors: New page: Loading map: TestWorld.umap
+[2024.01.28-11.16.20:335][954]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-11.16.20:335][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-11.16.20:335][954]MapCheck: New page: Map Check
+[2024.01.28-11.16.20:335][954]LightingResults: New page: Lighting Build
+[2024.01.28-11.16.20:371][954]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.28-11.16.20:379][954]LogUObjectHash: Compacting FUObjectHashTables data took   5.70ms
+[2024.01.28-11.16.20:380][954]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestWorld'.
+[2024.01.28-11.16.20:382][954]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.28-11.16.20:382][954]LogAIModule: Creating AISystem for world TestWorld
+[2024.01.28-11.16.20:436][954]LogUObjectHash: Compacting FUObjectHashTables data took   8.11ms
+[2024.01.28-11.16.20:450][954]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.28-11.16.20:450][954]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.175ms to complete.
+[2024.01.28-11.16.20:450][954]LogFileHelpers: Loading map 'TestWorld' took 0.118
+[2024.01.28-11.16.22:760][133]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Gio/TestWorld.TestWorld:PersistentLevel.TestWorld
+[2024.01.28-11.16.26:262][452]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Gio/BPI_Multiplayer.BPI_Multiplayer
+[2024.01.28-11.16.38:383][409]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Gio/widets/WBP_MainMenu.WBP_MainMenu
+[2024.01.28-11.16.46:783][990]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Gio/widets/WBP_settings.WBP_settings
+[2024.01.28-11.16.48:484][102]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Gio/widets/WBP_htp.WBP_htp
+[2024.01.28-11.16.54:533][617]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Gio/BP_Player.BP_Player
+[2024.01.28-11.17.10:514][730]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Bob/SOL.SOL
+[2024.01.28-11.17.15:633][ 23]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Bob/CreditsCam.CreditsCam
+[2024.01.28-11.21.25:480][293]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.01.28-11.21.26:389][349]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.01.28-11.21.51:447][965]LogTemp: Repeating last play command: Selected Viewport
+[2024.01.28-11.21.51:458][965]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.28-11.21.51:458][965]PIE: New page: PIE session: TestWorld (28 Jan 2024, 11:21:51)
+[2024.01.28-11.21.51:486][965]LogPlayLevel: Creating play world package: /Game/Gio/UEDPIE_0_TestWorld
+[2024.01.28-11.21.51:489][965]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002703s)
+[2024.01.28-11.21.51:490][965]LogAIModule: Creating AISystem for world TestWorld
+[2024.01.28-11.21.51:490][965]LogPlayLevel: PIE: World Init took: (0.001361s)
+[2024.01.28-11.21.51:490][965]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Gio/TestWorld.TestWorld to /Game/Gio/UEDPIE_0_TestWorld.TestWorld (0.004414s)
+[2024.01.28-11.21.51:596][965]LogUObjectHash: Compacting FUObjectHashTables data took  10.07ms
+[2024.01.28-11.21.51:598][965]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.01.28-11.21.51:598][965]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-11.21.51:598][965]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-11.21.51:598][965]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-11.21.51:598][965]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-11.21.51:598][965]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.28-11.21.51:598][965]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-11.21.51:598][965]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.28-11.21.51:598][965]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-11.21.51:598][965]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-11.21.51:599][965]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-11.21.51:599][965]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-11.21.51:599][965]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.28-11.21.51:604][965]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.28-11.21.51:604][965]LogAudioMixer: Display: 1: FrontRight
+[2024.01.28-11.21.51:628][965]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2024.01.28-11.21.51:628][965]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-11.21.51:628][965]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-11.21.51:628][965]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-11.21.51:628][965]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.28-11.21.51:629][965]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.28-11.21.51:629][965]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.28-11.21.51:632][965]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.28-11.21.51:632][965]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.28-11.21.51:632][965]LogInit: FAudioDevice initialized.
+[2024.01.28-11.21.51:632][965]LogAudio: Display: Audio Device (ID: 20) registered with world 'TestWorld'.
+[2024.01.28-11.21.51:643][965]LogLoad: Game class is 'BP_Multiplayer_C'
+[2024.01.28-11.21.51:645][965]LogWorld: Bringing World /Game/Gio/UEDPIE_0_TestWorld.TestWorld up for play (max tick rate 0) at 2024.01.28-11.21.51
+[2024.01.28-11.21.51:645][965]LogWorld: Bringing up level for play took: 0.000576
+[2024.01.28-11.21.51:645][965]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2024.01.28-11.21.51:654][965]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2024.01.28-11.21.51:654][965]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2024.01.28-11.21.51:654][965]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2024.01.28-11.21.51:654][965]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2024.01.28-11.21.51:654][965]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2024.01.28-11.21.51:655][965]PIE: Server logged in
+[2024.01.28-11.21.51:655][965]PIE: Play in editor total start time 0.201 seconds.
+[2024.01.28-11.21.54:750][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-11.21.54:750][183]LogWorld: BeginTearingDown for /Game/Gio/UEDPIE_0_TestWorld
+[2024.01.28-11.21.54:750][183]LogWorld: UWorld::CleanupWorld for TestWorld, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-11.21.54:750][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-11.21.54:761][183]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-11.21.54:772][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-11.21.54:849][183]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.28-11.21.54:850][183]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.28-11.21.54:853][183]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.28-11.21.54:857][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-11.21.54:867][183]LogUObjectHash: Compacting FUObjectHashTables data took   8.39ms
+[2024.01.28-11.21.54:920][184]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2024.01.28-11.21.56:817][291]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2024.01.28-11.21.56:863][291]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Bob/BobsTestArea.BobsTestArea
+[2024.01.28-11.21.56:863][291]Cmd: MAP LOAD FILE="../../../../../../Users/b1061859/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/Bob/BobsTestArea.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.01.28-11.21.56:863][291]LightingResults: New page: Lighting Build
+[2024.01.28-11.21.56:863][291]LoadErrors: New page: Loading map: BobsTestArea.umap
+[2024.01.28-11.21.56:906][291]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-11.21.56:906][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-11.21.56:955][291]LogWorld: UWorld::CleanupWorld for TestWorld, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-11.21.56:955][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-11.21.56:955][291]MapCheck: New page: Map Check
+[2024.01.28-11.21.56:955][291]LightingResults: New page: Lighting Build
+[2024.01.28-11.21.57:023][291]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.28-11.21.57:033][291]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2024.01.28-11.21.57:033][291]LogAudio: Display: Audio Device (ID: 1) registered with world 'BobsTestArea'.
+[2024.01.28-11.21.57:035][291]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.28-11.21.57:035][291]LogAIModule: Creating AISystem for world BobsTestArea
+[2024.01.28-11.21.57:111][291]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2024.01.28-11.21.57:133][291]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.28-11.21.57:133][291]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.318ms to complete.
+[2024.01.28-11.21.57:133][291]LogFileHelpers: Loading map 'BobsTestArea' took 0.271
+[2024.01.28-11.21.57:964][343]LogTemp: Repeating last play command: Selected Viewport
+[2024.01.28-11.21.57:976][343]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.28-11.21.57:976][343]PIE: New page: PIE session: BobsTestArea (28 Jan 2024, 11:21:57)
+[2024.01.28-11.21.57:976][343]LogPlayLevel: Creating play world package: /Game/Bob/UEDPIE_0_BobsTestArea
+[2024.01.28-11.21.57:979][343]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002991s)
+[2024.01.28-11.21.57:980][343]LogAIModule: Creating AISystem for world BobsTestArea
+[2024.01.28-11.21.57:980][343]LogPlayLevel: PIE: World Init took: (0.001095s)
+[2024.01.28-11.21.57:980][343]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bob/BobsTestArea.BobsTestArea to /Game/Bob/UEDPIE_0_BobsTestArea.BobsTestArea (0.004198s)
+[2024.01.28-11.21.58:041][343]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2024.01.28-11.21.58:041][343]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.01.28-11.21.58:041][343]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-11.21.58:042][343]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-11.21.58:042][343]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-11.21.58:042][343]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-11.21.58:042][343]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.28-11.21.58:042][343]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-11.21.58:042][343]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.28-11.21.58:042][343]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-11.21.58:042][343]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-11.21.58:042][343]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-11.21.58:042][343]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-11.21.58:042][343]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.28-11.21.58:046][343]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.28-11.21.58:046][343]LogAudioMixer: Display: 1: FrontRight
+[2024.01.28-11.21.58:076][343]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2024.01.28-11.21.58:076][343]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-11.21.58:076][343]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-11.21.58:076][343]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-11.21.58:077][343]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.28-11.21.58:077][343]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.28-11.21.58:077][343]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.28-11.21.58:080][343]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.28-11.21.58:080][343]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.28-11.21.58:080][343]LogInit: FAudioDevice initialized.
+[2024.01.28-11.21.58:080][343]LogAudio: Display: Audio Device (ID: 21) registered with world 'BobsTestArea'.
+[2024.01.28-11.21.58:096][343]LogLoad: Game class is 'BP_Multiplayer_C'
+[2024.01.28-11.21.58:098][343]LogWorld: Bringing World /Game/Bob/UEDPIE_0_BobsTestArea.BobsTestArea up for play (max tick rate 0) at 2024.01.28-11.21.58
+[2024.01.28-11.21.58:098][343]LogWorld: Bringing up level for play took: 0.001052
+[2024.01.28-11.21.58:098][343]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2024.01.28-11.21.58:115][343]PIE: Server logged in
+[2024.01.28-11.21.58:116][343]PIE: Play in editor total start time 0.143 seconds.
+[2024.01.28-11.23.00:870][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-11.23.00:870][760]LogWorld: BeginTearingDown for /Game/Bob/UEDPIE_0_BobsTestArea
+[2024.01.28-11.23.00:870][760]LogWorld: UWorld::CleanupWorld for BobsTestArea, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-11.23.00:871][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-11.23.00:878][760]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-11.23.00:884][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-11.23.00:946][760]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.28-11.23.00:947][760]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.28-11.23.00:949][760]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.28-11.23.00:955][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-11.23.00:970][760]LogUObjectHash: Compacting FUObjectHashTables data took  12.52ms
+[2024.01.28-11.23.01:012][761]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2024.01.28-11.23.10:135][394]LogUObjectHash: Compacting FUObjectHashTables data took   6.28ms
+[2024.01.28-11.23.10:178][394]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Gio/MainMenu.MainMenu
+[2024.01.28-11.23.10:178][394]Cmd: MAP LOAD FILE="../../../../../../Users/b1061859/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/Gio/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.01.28-11.23.10:178][394]LightingResults: New page: Lighting Build
+[2024.01.28-11.23.10:178][394]LoadErrors: New page: Loading map: MainMenu.umap
+[2024.01.28-11.23.10:180][394]LogWorld: UWorld::CleanupWorld for BobsTestArea, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-11.23.10:180][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-11.23.10:180][394]MapCheck: New page: Map Check
+[2024.01.28-11.23.10:180][394]LightingResults: New page: Lighting Build
+[2024.01.28-11.23.10:248][394]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.28-11.23.10:255][394]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2024.01.28-11.23.10:255][394]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2024.01.28-11.23.10:273][394]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.28-11.23.10:273][394]LogAIModule: Creating AISystem for world MainMenu
+[2024.01.28-11.23.10:345][394]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2024.01.28-11.23.10:356][394]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.28-11.23.10:357][394]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.766ms to complete.
+[2024.01.28-11.23.10:357][394]LogFileHelpers: Loading map 'MainMenu' took 0.178
+[2024.01.28-11.23.11:483][464]LogTemp: Repeating last play command: Selected Viewport
+[2024.01.28-11.23.11:494][464]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.28-11.23.11:495][464]PIE: New page: PIE session: MainMenu (28 Jan 2024, 11:23:11)
+[2024.01.28-11.23.11:495][464]LogPlayLevel: Creating play world package: /Game/Gio/UEDPIE_0_MainMenu
+[2024.01.28-11.23.11:500][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005196s)
+[2024.01.28-11.23.11:501][464]LogAIModule: Creating AISystem for world MainMenu
+[2024.01.28-11.23.11:501][464]LogPlayLevel: PIE: World Init took: (0.001095s)
+[2024.01.28-11.23.11:501][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Gio/MainMenu.MainMenu to /Game/Gio/UEDPIE_0_MainMenu.MainMenu (0.006402s)
+[2024.01.28-11.23.11:568][464]LogUObjectHash: Compacting FUObjectHashTables data took   6.56ms
+[2024.01.28-11.23.11:568][464]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.01.28-11.23.11:568][464]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-11.23.11:568][464]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-11.23.11:568][464]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-11.23.11:568][464]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-11.23.11:568][464]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.28-11.23.11:568][464]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-11.23.11:568][464]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.28-11.23.11:568][464]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-11.23.11:569][464]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-11.23.11:569][464]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-11.23.11:569][464]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-11.23.11:569][464]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.28-11.23.11:574][464]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.28-11.23.11:574][464]LogAudioMixer: Display: 1: FrontRight
+[2024.01.28-11.23.11:625][464]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2024.01.28-11.23.11:625][464]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-11.23.11:625][464]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-11.23.11:625][464]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-11.23.11:626][464]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.28-11.23.11:626][464]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.28-11.23.11:626][464]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.28-11.23.11:628][464]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.28-11.23.11:628][464]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.28-11.23.11:628][464]LogInit: FAudioDevice initialized.
+[2024.01.28-11.23.11:628][464]LogAudio: Display: Audio Device (ID: 22) registered with world 'MainMenu'.
+[2024.01.28-11.23.11:642][464]LogLoad: Game class is 'BP_Multiplayer_C'
+[2024.01.28-11.23.11:650][464]LogWorld: Bringing World /Game/Gio/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.01.28-11.23.11
+[2024.01.28-11.23.11:652][464]LogWorld: Bringing up level for play took: 0.008739
+[2024.01.28-11.23.11:652][464]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2024.01.28-11.23.11:662][464]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2024.01.28-11.23.11:663][464]PIE: Server logged in
+[2024.01.28-11.23.11:664][464]PIE: Play in editor total start time 0.172 seconds.
+[2024.01.28-11.23.14:785][676]LogNet: Browse: /Game/Gio/TestWorld
+[2024.01.28-11.23.14:785][676]LogLoad: LoadMap: /Game/Gio/TestWorld
+[2024.01.28-11.23.14:785][676]LogWorld: BeginTearingDown for /Game/Gio/UEDPIE_0_MainMenu
+[2024.01.28-11.23.14:785][676]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-11.23.14:786][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-11.23.14:843][676]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.28-11.23.14:851][676]LogUObjectHash: Compacting FUObjectHashTables data took   6.47ms
+[2024.01.28-11.23.14:858][676]LogAudio: Display: Audio Device (ID: 22) registered with world 'TestWorld'.
+[2024.01.28-11.23.14:859][676]LogAIModule: Creating AISystem for world TestWorld
+[2024.01.28-11.23.14:859][676]LogLoad: Game class is 'BP_Multiplayer_C'
+[2024.01.28-11.23.14:861][676]LogWorld: Bringing World /Game/Gio/UEDPIE_0_TestWorld.TestWorld up for play (max tick rate 0) at 2024.01.28-11.23.14
+[2024.01.28-11.23.14:861][676]LogWorld: Bringing up level for play took: 0.001175
+[2024.01.28-11.23.14:865][676]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2024.01.28-11.23.14:865][676]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2024.01.28-11.23.14:865][676]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2024.01.28-11.23.14:866][676]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2024.01.28-11.23.14:867][676]LogLoad: Took 0.081808 seconds to LoadMap(/Game/Gio/TestWorld)
+[2024.01.28-11.23.42:506][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-11.23.42:506][607]LogWorld: BeginTearingDown for /Game/Gio/UEDPIE_0_TestWorld
+[2024.01.28-11.23.42:506][607]LogWorld: UWorld::CleanupWorld for TestWorld, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-11.23.42:507][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-11.23.42:524][607]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-11.23.42:537][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-11.23.42:616][607]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.28-11.23.42:617][607]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.28-11.23.42:618][607]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.28-11.23.42:626][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-11.23.42:639][607]LogUObjectHash: Compacting FUObjectHashTables data took  10.90ms
+[2024.01.28-11.23.42:678][608]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2024.01.28-11.23.43:636][669]LogTemp: Repeating last play command: Selected Viewport
+[2024.01.28-11.23.43:647][669]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.28-11.23.43:647][669]PIE: New page: PIE session: MainMenu (28 Jan 2024, 11:23:43)
+[2024.01.28-11.23.43:647][669]LogPlayLevel: Creating play world package: /Game/Gio/UEDPIE_0_MainMenu
+[2024.01.28-11.23.43:653][669]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005037s)
+[2024.01.28-11.23.43:653][669]LogAIModule: Creating AISystem for world MainMenu
+[2024.01.28-11.23.43:654][669]LogPlayLevel: PIE: World Init took: (0.001065s)
+[2024.01.28-11.23.43:654][669]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Gio/MainMenu.MainMenu to /Game/Gio/UEDPIE_0_MainMenu.MainMenu (0.006212s)
+[2024.01.28-11.23.43:719][669]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2024.01.28-11.23.43:720][669]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.01.28-11.23.43:720][669]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-11.23.43:720][669]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-11.23.43:720][669]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-11.23.43:720][669]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-11.23.43:720][669]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.28-11.23.43:720][669]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-11.23.43:720][669]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.28-11.23.43:720][669]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-11.23.43:720][669]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-11.23.43:720][669]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-11.23.43:720][669]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-11.23.43:720][669]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.28-11.23.43:724][669]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.28-11.23.43:724][669]LogAudioMixer: Display: 1: FrontRight
+[2024.01.28-11.23.43:753][669]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2024.01.28-11.23.43:753][669]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-11.23.43:753][669]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-11.23.43:754][669]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-11.23.43:754][669]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.28-11.23.43:754][669]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.28-11.23.43:754][669]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.28-11.23.43:757][669]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.28-11.23.43:757][669]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.28-11.23.43:757][669]LogInit: FAudioDevice initialized.
+[2024.01.28-11.23.43:757][669]LogAudio: Display: Audio Device (ID: 23) registered with world 'MainMenu'.
+[2024.01.28-11.23.43:774][669]LogLoad: Game class is 'BP_Multiplayer_C'
+[2024.01.28-11.23.43:782][669]LogWorld: Bringing World /Game/Gio/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.01.28-11.23.43
+[2024.01.28-11.23.43:784][669]LogWorld: Bringing up level for play took: 0.009037
+[2024.01.28-11.23.43:784][669]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2024.01.28-11.23.43:794][669]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2024.01.28-11.23.43:795][669]PIE: Server logged in
+[2024.01.28-11.23.43:796][669]PIE: Play in editor total start time 0.152 seconds.
+[2024.01.28-11.23.48:591][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-11.23.48:594][990]LogWorld: BeginTearingDown for /Game/Gio/UEDPIE_0_MainMenu
+[2024.01.28-11.23.48:626][990]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-11.23.48:627][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-11.23.48:656][990]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-11.23.48:664][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-11.23.48:737][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-11.23.48:738][990]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.28-11.23.48:740][990]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.28-11.23.48:750][990]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2024.01.28-11.23.48:823][991]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2024.01.28-11.23.53:928][340]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2024.01.28-11.23.53:966][340]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Bob/Credits.Credits
+[2024.01.28-11.23.53:966][340]Cmd: MAP LOAD FILE="../../../../../../Users/b1061859/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/Bob/Credits.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.01.28-11.23.53:966][340]LightingResults: New page: Lighting Build
+[2024.01.28-11.23.53:966][340]LoadErrors: New page: Loading map: Credits.umap
+[2024.01.28-11.23.54:010][340]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-11.23.54:010][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-11.23.54:011][340]MapCheck: New page: Map Check
+[2024.01.28-11.23.54:011][340]LightingResults: New page: Lighting Build
+[2024.01.28-11.23.54:090][340]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.28-11.23.54:106][340]LogUObjectHash: Compacting FUObjectHashTables data took  13.92ms
+[2024.01.28-11.23.54:106][340]LogAudio: Display: Audio Device (ID: 1) registered with world 'Credits'.
+[2024.01.28-11.23.54:110][340]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.28-11.23.54:110][340]LogAIModule: Creating AISystem for world Credits
+[2024.01.28-11.23.54:190][340]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2024.01.28-11.23.54:200][340]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.28-11.23.54:200][340]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.137ms to complete.
+[2024.01.28-11.23.54:200][340]LogFileHelpers: Loading map 'Credits' took 0.235
+[2024.01.28-11.23.55:871][446]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Bob/Credits.Credits:PersistentLevel.Credits
+[2024.01.28-11.28.02:520][ 93]BlueprintLog: New page: Compile Credits
+[2024.01.28-11.28.02:640][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2024.01.28-11.28.03:144][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.01.28-11.28.03:163][128]LogSavePackage: Moving '../../../../../../Users/b1061859/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Saved/CreditsF96D964642FB95FC8F665EB21B7F0ADC.tmp' to '../../../../../../Users/b1061859/Documents/GitHub/GlobalGameJam2024/MakeMeLaugh/Content/Bob/Credits.umap'
+[2024.01.28-11.28.03:179][128]LogFileHelpers: Saving map 'Credits' took 0.101
+[2024.01.28-11.28.03:201][128]AssetCheck: New page: Asset Save: Credits
+[2024.01.28-11.28.03:201][128]LogContentValidation: Display: Validating World /Game/Bob/Credits.Credits
+[2024.01.28-11.28.04:605][246]LogTemp: Repeating last play command: Selected Viewport
+[2024.01.28-11.28.04:616][246]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.28-11.28.04:616][246]PIE: New page: PIE session: Credits (28 Jan 2024, 11:28:04)
+[2024.01.28-11.28.04:616][246]LogPlayLevel: Creating play world package: /Game/Bob/UEDPIE_0_Credits
+[2024.01.28-11.28.04:618][246]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002058s)
+[2024.01.28-11.28.04:619][246]LogAIModule: Creating AISystem for world Credits
+[2024.01.28-11.28.04:619][246]LogPlayLevel: PIE: World Init took: (0.001143s)
+[2024.01.28-11.28.04:619][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bob/Credits.Credits to /Game/Bob/UEDPIE_0_Credits.Credits (0.003303s)
+[2024.01.28-11.28.04:689][246]LogUObjectHash: Compacting FUObjectHashTables data took   6.56ms
+[2024.01.28-11.28.04:689][246]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.01.28-11.28.04:689][246]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-11.28.04:689][246]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-11.28.04:689][246]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-11.28.04:689][246]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-11.28.04:689][246]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.28-11.28.04:689][246]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-11.28.04:689][246]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.28-11.28.04:689][246]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-11.28.04:690][246]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-11.28.04:690][246]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-11.28.04:690][246]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-11.28.04:690][246]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.28-11.28.04:697][246]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.28-11.28.04:697][246]LogAudioMixer: Display: 1: FrontRight
+[2024.01.28-11.28.04:731][246]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2024.01.28-11.28.04:731][246]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-11.28.04:731][246]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-11.28.04:731][246]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-11.28.04:732][246]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.28-11.28.04:732][246]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.28-11.28.04:732][246]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.28-11.28.04:734][246]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.28-11.28.04:734][246]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.28-11.28.04:734][246]LogInit: FAudioDevice initialized.
+[2024.01.28-11.28.04:734][246]LogAudio: Display: Audio Device (ID: 24) registered with world 'Credits'.
+[2024.01.28-11.28.04:745][246]LogLoad: Game class is 'BP_Multiplayer_C'
+[2024.01.28-11.28.04:746][246]LogWorld: Bringing World /Game/Bob/UEDPIE_0_Credits.Credits up for play (max tick rate 0) at 2024.01.28-11.28.04
+[2024.01.28-11.28.04:747][246]LogWorld: Bringing up level for play took: 0.000720
+[2024.01.28-11.28.04:747][246]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2024.01.28-11.28.04:754][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-11.28.04:754][246]PIE: Server logged in
+[2024.01.28-11.28.04:756][246]PIE: Play in editor total start time 0.143 seconds.
+[2024.01.28-11.28.25:980][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-11.28.25:980][169]LogWorld: BeginTearingDown for /Game/Bob/UEDPIE_0_Credits
+[2024.01.28-11.28.25:980][169]LogWorld: UWorld::CleanupWorld for Credits, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-11.28.25:980][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-11.28.25:998][169]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-11.28.26:008][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-11.28.26:088][169]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.28-11.28.26:089][169]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.28-11.28.26:090][169]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.28-11.28.26:094][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-11.28.26:099][169]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2024.01.28-11.28.26:126][170]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2024.01.28-11.28.32:686][712]LogUObjectHash: Compacting FUObjectHashTables data took   9.84ms
+[2024.01.28-11.28.34:160][823]LogTemp: Repeating last play command: Standalone Game
+[2024.01.28-11.28.35:831][823]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
